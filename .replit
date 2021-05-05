@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 Lesson-1/Control_Structure_Practice/2.py"
+run = "python3 Lesson-1/Functions_Generators/sudoku.py"
